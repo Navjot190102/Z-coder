@@ -1,2 +1,18 @@
-# Z-coder
-Z-coder is a collaborative platform where students can save, organize, and share their coding questions and answers. Whether you're preparing for exams, practicing coding interviews, or just honing your skills, Z-coder is here to help.
+Project Z coder
+Instructions to deploy project on localhost
+Install nodejs
+Install node modules in the folder. Go to the terminal and run a command <npm i>.
+Install all the dependencies included in the package.json.             "bcrypt",
+    "body-parser"
+    "cookie-parser",
+    "cors",
+    "dotenv",
+    "express",
+    "https",
+    "jsonwebtoken",
+    "mongoose",
+    "mongoose-aggregate-paginate-v2"
+Install open SSL.
+Generate a self signed certificate.
+
+Video Link ->  https://drive.google.com/file/d/1NRz8uxJrjW3gg34C5E_7FJwT5ga4O5-w/view?usp=sharing
